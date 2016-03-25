@@ -1,0 +1,25 @@
+{
+  "name": "Node_ToDoList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbandydd/Node_ToDoList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbandydd/Node_ToDoList/issues"
+  },
+  "homepage": "https://github.com/bbandydd/Node_ToDoList#readme",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "ejs": "^2.4.1",
+    "express": "~4.0.0"
+  }
+}
